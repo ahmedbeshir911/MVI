@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedbeshir911.github.io/MVI/sitemap.xml
